@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmsilv4
-- 👀 I’m interested in Kotlin and python
-- 🌱 I’m currently learning Kotlin 
+- 👀 I’m interested in Java,JavaScript and Python
+- 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me mms.silvah@gmail.com
 
 <!---
